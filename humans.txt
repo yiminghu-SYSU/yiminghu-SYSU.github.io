@@ -1,0 +1,12 @@
+# TEAM
+
+    Ahmet Çadırcı -- Front-End Developer -- @ahmetcadirci25
+
+# THANKS
+
+    Thanks everyone
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, SCSS, Bootstrap
+    jQuery, Modernizr
