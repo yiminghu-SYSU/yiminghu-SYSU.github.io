@@ -14,7 +14,7 @@ header {
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
-    background-color: #ffffff; }
+    background-color: #323646; }
   header .top-nav-collapse {
     background-color: #ffffff; }
   header .nav > li > a {
@@ -27,7 +27,7 @@ header {
       color: #5a5a5a; }
 
 .hero-section {
-  padding: 300px 0;
+  padding: 260px 0;
   text-align: center;
   background: #fff;
   background: url("../img/TianQin.png");

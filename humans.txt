@@ -1,5 +1,6 @@
 # TEAM
-
+  
+    Yi-Ming Hu, modified on the work based on 
     Ahmet Çadırcı -- Front-End Developer -- @ahmetcadirci25
 
 # THANKS
